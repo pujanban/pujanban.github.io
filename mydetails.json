@@ -1,0 +1,93 @@
+{
+    "myprofile": [
+        {
+            "introduction": {
+                "name": "Pujan Ban",
+                "address": "San Antonio, TX",
+                "education": "B.S. Computer Science",
+                "school": "Texas Tech University",
+                "email": "pujan.ban@hotmail.com"
+            },
+            "experience": [
+                {
+                    "position": "Web Developer",
+                    "company": "Tata Consultancy Service",
+                    "startDate": "June 05, 2018",
+                    "endDate": "Current",
+                    "responsibilites": [
+                        "Requirements and design analysis with team members in Agile environment involving daily stand-ups and biweekly sprints",
+                        "Develop java micro-services, Gitlab (VCS and CI/CD), deployment using JBoss (w Jenkins and OpenShift containers)",
+                        "Design, develop and maintain websites using HTML5, JavaScript, jQuery, Twitter Bootstrap",
+                        "Develop web templates/components using HandlebarsJS"
+                    ]
+                },
+                {
+                    "position": "Programmer Intern",
+                    "company": "Pioneer  Technologies Inc",
+                    "startDate": "Feb 01, 2018",
+                    "endDate": "May 30, 2018",
+                    "responsibilites": [
+                        "Design and maintained Java based web applications based on Java and Spring Framework",
+                        "Perform CRUD operations on the web applications using Spring MVC architecture deployed in Apache Tomcat server (PostgreSQL as the database)",
+                        "Designed simple user interfaces to test the CRUD operation for the application using JSP and JSTL"
+                    ]
+                },
+                {
+                    "position": "Softare Developer Developer",
+                    "company": "J&P Innovations Inc",
+                    "startDate": "May 23, 2016",
+                    "endDate": "August 26, 2016",
+                    "responsibilites": [
+                        " Developed an android application with an agile team of four",
+                        "Experience with API’s including Google Maps, Firebase, Facebook, Google Places",
+                        "Integrated Firebase into the application for user authentication and profile storage",
+                        "Documentation (Use Cases, Static and Dynamic Modeling, Sequence Diagram)",
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "projectName": "Kakoi Kanji",
+                    "responsibilites": [
+                        "Project manager involving planning, scheduling, and dividing the tasks for the team",
+                        "Accomplished developing a gaming application where user could learn the Japanese Kanji characters while playing the game",
+                        "Worked in Android Studio platform to design the user interface for the application"
+                    ]
+                },
+                {
+                    "projectName": "Human Activity Tracking Device",
+                    "responsibilites": [
+                        "Acquired knowledge on motion sensors (accelerometer, gyroscope and magnetometer) of the cellphone",
+                        "Developed an android application with an agile team of four",
+                        "Learned to retrieve the data from the internal storage of the app for the analysis of the data"
+                    ]
+                }
+            ],
+            "skills": [
+                {
+                    "level-3": [
+                        "Java",
+                        "JavaScript",
+                        "jQuery",
+                        "HTML5",
+                        "CSS",
+                        "Bootstrap"
+                    ],
+                    "leve1-2": [
+                        "SQL Server",
+                        "T-SQL",
+                        "Firebase",
+                        "MySQL",
+                        "Angular"
+                    ],
+                    "level-1": [
+                        "C#",
+                        "C++",
+                        "PostgreSQL",
+                        "SQLite"
+                    ]
+                }
+            ]
+        }
+    ]
+}
